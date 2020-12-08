@@ -7,7 +7,7 @@ The jupyter notebook use python 3.8 and the following package (matplotlib, seabo
 In order to install required version of it use this command:
 #### pip install -U -r requirements.txt
 
-# What does project?
+# What does the project do??
 
 # Usefull links
 
