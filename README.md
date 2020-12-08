@@ -12,8 +12,8 @@ In order to install required version of it use this command:
 # What does the project do??
 
 # Usefull links
-1) https://physionet.org/content/eegmmidb/1.0.0/ - general information about the dataset
-2) https://labeling.ucsd.edu/tutorial/labels - 
+1) https://physionet.org/content/eegmmidb/1.0.0/ - General information about the dataset
+2) https://labeling.ucsd.edu/tutorial/labels - Tutorial: EEG Independent Component Labeling (the useful and detailed manual for detecting artifacts in EEG data)
 
 # Evaluation score
 ![alt text](https://github.com/loloroshlo/total-perspective-vortex/blob/main/Score_of_project.png)
