@@ -11,17 +11,17 @@ In order to install required version of it use this command:
 
 # What does the project do?
 
-## Preprocessing, parsing and formating
+### Preprocessing, parsing and formating
 
-## Example of ICA
+### Example of ICA
 
-## Converting to EPOCHS
+### Converting to EPOCHS
 
-## Treatment pipeline
+### Treatment pipeline
 
-## Best model
+### Best model
 
-## Implement PCA
+### Implement PCA
 
 # Usefull links
 1) https://physionet.org/content/eegmmidb/1.0.0/ - General information about the dataset
