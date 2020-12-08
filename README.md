@@ -9,7 +9,7 @@ The jupyter notebook use python 3.8 and the following package (matplotlib, seabo
 In order to install required version of it use this command:
 #### pip install -U -r requirements.txt
 
-# What does the project do??
+# What does the project do?
 
 # Usefull links
 1) https://physionet.org/content/eegmmidb/1.0.0/ - General information about the dataset
