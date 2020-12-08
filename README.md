@@ -1,4 +1,4 @@
-# total-perspective-vortex
+# Project total-perspective-vortex
 
 # Requirements
 The jupyter notebook use python 3.8 and the following package (matplotlib, seaborn, mne, sklearn, numpy, notebook, PyQt5).
