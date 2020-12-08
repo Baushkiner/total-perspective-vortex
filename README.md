@@ -11,6 +11,18 @@ In order to install required version of it use this command:
 
 # What does the project do?
 
+## Preprocessing, parsing and formating
+
+## Example of ICA
+
+## Converting to EPOCHS
+
+## Treatment pipeline
+
+## Best model
+
+## Implement PCA
+
 # Usefull links
 1) https://physionet.org/content/eegmmidb/1.0.0/ - General information about the dataset
 2) https://labeling.ucsd.edu/tutorial/labels - Tutorial: EEG Independent Component Labeling. This detailed guide is useful for detecting artifacts in EEG data.
