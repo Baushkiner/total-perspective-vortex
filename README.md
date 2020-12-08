@@ -10,3 +10,5 @@ In order to install required version of it use this command:
 # What does project?
 
 # Usefull links
+
+![alt text](https://github.com/loloroshlo/total-perspective-vortex/blob/main/Score_of_project.png)
