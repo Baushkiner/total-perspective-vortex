@@ -20,9 +20,9 @@ And there is an example of mne.ICA, that detects EEG related components using co
 ### Converting to EPOCHS
 Converting Raws to Epochs (5 sec.) and one dynamic graph.
 ### Treatment pipeline
-Creating 6 pipelines ([CSP, SPoC] @ [LinearDiscriminantAnalysis, LogisticRegression, RandomForestClassifier]) and calculating Accuracy with cross_val_score.
+Creating 6 pipelines ([CSP, SPoC] @ [LinearDiscriminantAnalysis, LogisticRegression, RandomForestClassifier]) and calculating their Accuracy with cross_val_score.
 ### Best model
-
+Selecting the best model of 6 pipelines, train it and predict.
 ### Implement PCA
 
 # Usefull links
