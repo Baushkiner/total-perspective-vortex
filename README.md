@@ -24,7 +24,7 @@ Creating 6 pipelines ([CSP, SPoC] @ [LinearDiscriminantAnalysis, LogisticRegress
 ### Best model
 Selecting the best model of 6 pipelines, train it and predict.
 ### Implement PCA
-
+Implementing the function PCA yourself and comparing it to sklearn.PCA based on graphs.
 # Usefull links
 1) https://physionet.org/content/eegmmidb/1.0.0/ - General information about the dataset
 2) https://labeling.ucsd.edu/tutorial/labels - Tutorial: EEG Independent Component Labeling. This detailed guide is useful for detecting artifacts in EEG data.
