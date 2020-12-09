@@ -12,7 +12,7 @@ In order to install required version of it use this command:
 # What does the project do?
 
 ### Preprocessing, parsing and formating
-
+Any number of subjects can be loaded. But use only runs = [5, 6, 9, 10, 13, 14]. Included ch_names standardization.
 ### Example of ICA
 
 ### Converting to EPOCHS
