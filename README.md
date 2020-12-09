@@ -16,7 +16,7 @@ Any number of subjects can be loaded. But use only runs = [5, 6, 9, 10, 13, 14].
 ### Example of Filter and ICA
 I have done filtering the data with range (5. , 40.) according to Tutorial: EEG Independent Component Labeling.
 
-And there is an example of mne.ICA, that detects EEG related components using correlation (in my case with ch_name='Fpz').
+And there is an example of mne.ICA, that detects EEG related components using correlation (eye artifacts in my case using ch_name='Fpz').
 ### Converting to EPOCHS
 Converting Raws to Epochs (5 sec.) and one dynamic graph.
 ### Treatment pipeline
