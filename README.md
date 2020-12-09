@@ -13,12 +13,14 @@ In order to install required version of it use this command:
 
 ### Preprocessing, parsing and formating
 Any number of subjects can be loaded. But use only runs = [5, 6, 9, 10, 13, 14]. Included ch_names standardization.
-### Example of ICA
+### Example of Filter and ICA
+I have done filtering the data with range (5. , 40.) according to Tutorial: EEG Independent Component Labeling.
 
+And there is an example of mne.ICA, that detects EEG related components using correlation (in my case with ch_name='Fpz').
 ### Converting to EPOCHS
-
+Converting Raws to Epochs (5 sec.) and one dynamic graph.
 ### Treatment pipeline
-
+Creating 6 pipelines ([CSP, SPoC] @ [LinearDiscriminantAnalysis, LogisticRegression, RandomForestClassifier]) and calculating Accuracy with cross_val_score.
 ### Best model
 
 ### Implement PCA
