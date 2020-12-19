@@ -32,5 +32,7 @@ Implementing the function PCA yourself and comparing it to sklearn.PCA based on 
 
 3) https://mne.tools/dev/auto_tutorials/index.html - MNE Tutorials
 
+4) https://cbrnr.github.io/2017/10/23/loading-eeg-data/ - Some useful posts by Clemens Brunner about working with EEG data
+
 # Evaluation score
 ![alt text](https://github.com/loloroshlo/total-perspective-vortex/blob/main/Score_of_project.png)
