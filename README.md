@@ -30,5 +30,7 @@ Implementing the function PCA yourself and comparing it to sklearn.PCA based on 
 
 2) https://labeling.ucsd.edu/tutorial/labels - Tutorial: EEG Independent Component Labeling. This detailed guide is useful for detecting artifacts in EEG data.
 
+3) https://mne.tools/dev/auto_tutorials/index.html - MNE Tutorials
+
 # Evaluation score
 ![alt text](https://github.com/loloroshlo/total-perspective-vortex/blob/main/Score_of_project.png)
