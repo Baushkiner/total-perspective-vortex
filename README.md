@@ -9,7 +9,7 @@ The jupyter notebook use python 3.8 and the following package (matplotlib, seabo
 In order to install required version of it use this command:
 #### pip install -U -r requirements.txt
 
-# What does the project do?
+# What does the project do? (Klassifikationsanalyse.ipynb)
 
 ### Preprocessing, parsing and formating
 Any number of subjects can be loaded. But use only runs = [5, 6, 9, 10, 13, 14]. Included ch_names standardization.
